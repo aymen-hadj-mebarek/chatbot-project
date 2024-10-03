@@ -32,7 +32,7 @@ To set up this project on your local machine:
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/yourusername/chatbot-project.git
+git clone https://github.com/aymen-hadj-mebarek/chatbot-project
 ```
     
 2. **Navigate to the Project Directory**:
